@@ -1,4 +1,4 @@
-# chess board
+# Chess board
 
 Chess board developed in python with pygame
 
